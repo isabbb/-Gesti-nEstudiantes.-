@@ -1,0 +1,8 @@
+Reporte de estudiantes: 
+Los datos del los alumnos son: 
+Nombre: juan
+Apellido: narvaez
+Semestre: 0
+Correo: angela@gmail.com
+Celular: 83423847
+Cedula: 27088618

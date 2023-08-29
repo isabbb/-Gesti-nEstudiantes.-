@@ -1,0 +1,8 @@
+Reporte de estudiantes: 
+Los datos del los alumnos son: 
+Nombre: isa
+Apellido: si
+Semestre: 0
+Correo: isa
+Celular: 943284
+Cedula: 10
